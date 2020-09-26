@@ -1,25 +1,26 @@
-h1 {
-  color: #228B22;
-  font-family: system-ui;
-  text-align: center;
-}
-
-.article__subtitle {
-  font-family: sans-serif;
-}
-
 body {
   background-color: #F6F5F8;
+  font-family: 'Marck Script', cursive;
+  }
+
+h1 {
+  color: #228B22;
+  text-align: center;
+  font-family: 'Lobster', cursive;
 }
 
 .article__description {
   text-align: justify;
   font-size: 20px;
-  font-family: cursive;
   color: #48444B;
 }
 
 .footer__description {
   font-size: 10px;
   color: #48444B;
+}
+
+img {
+  width: 600px;
+  height: 400px;
 }
